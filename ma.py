@@ -50,8 +50,8 @@ MAX_PAGES       = 0   # 0 = unlimited
 MAX_EMPTY_PAGES = 5
 JOB_LIMIT       = 0   # 0 = no cap
 
-OUTPUT_FILE        = "jobs_output_algeria.xlsx"
-PROCESSED_IDS_FILE = "processed_jobs_algeria.csv"
+OUTPUT_FILE        = "jobs_output_morocco.xlsx"
+PROCESSED_IDS_FILE = "processed_jobs_morocco.csv"
 
 # ── WordPress ────────────────────────────────────────────────────────────────
 WP_URL      = os.environ.get("WP_BASE_URL", "")
